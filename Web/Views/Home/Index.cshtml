@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using Web.ViewModels
+@model IEnumerable<Web.ViewModels.AccountOwnerEntryViewModel>
+
+<div class="row">
+        <h2>Accounts</h2>
+        
+        <table class="table">
+            <thead>
+            <tr>
+                <th>
+                    Number
+                </th>
+                <th>
+                    Balance
+                </th>
+                <th>
+                    Type of entity(person)
+                </th>
+                <th>
+                    Owner
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model) {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Number)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Balance)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LegalEntityType)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OwnerName)
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+        
+        <div>@Html.ActionLink("Change", "Index", "EditOwner")</div>
+    </div>

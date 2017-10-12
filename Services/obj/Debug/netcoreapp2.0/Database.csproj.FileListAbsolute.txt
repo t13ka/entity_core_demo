@@ -1,0 +1,9 @@
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\Database\bin\Debug\netcoreapp2.0\Database.deps.json
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\Database\bin\Debug\netcoreapp2.0\Database.dll
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\Database\bin\Debug\netcoreapp2.0\Database.pdb
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\Database\obj\Debug\netcoreapp2.0\Database.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\Database\obj\Debug\netcoreapp2.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\Database\obj\Debug\netcoreapp2.0\Database.AssemblyInfoInputs.cache
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\Database\obj\Debug\netcoreapp2.0\Database.AssemblyInfo.cs
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\Database\obj\Debug\netcoreapp2.0\Database.dll
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\Database\obj\Debug\netcoreapp2.0\Database.pdb

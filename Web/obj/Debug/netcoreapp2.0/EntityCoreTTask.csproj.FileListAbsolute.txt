@@ -1,0 +1,13 @@
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\bin\Debug\netcoreapp2.0\EntityCoreTTask.deps.json
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\bin\Debug\netcoreapp2.0\EntityCoreTTask.runtimeconfig.json
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\bin\Debug\netcoreapp2.0\EntityCoreTTask.runtimeconfig.dev.json
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\bin\Debug\netcoreapp2.0\EntityCoreTTask.dll
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\bin\Debug\netcoreapp2.0\EntityCoreTTask.pdb
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\bin\Debug\netcoreapp2.0\Database.dll
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\bin\Debug\netcoreapp2.0\Database.pdb
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\obj\Debug\netcoreapp2.0\EntityCoreTTask.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\obj\Debug\netcoreapp2.0\EntityCoreTTask.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\obj\Debug\netcoreapp2.0\EntityCoreTTask.AssemblyInfoInputs.cache
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\obj\Debug\netcoreapp2.0\EntityCoreTTask.AssemblyInfo.cs
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\obj\Debug\netcoreapp2.0\EntityCoreTTask.dll
+C:\Users\DNS\Documents\Visual Studio 2017\Projects\EntityCoreTTask\EntityCoreTTask\obj\Debug\netcoreapp2.0\EntityCoreTTask.pdb
